@@ -24,3 +24,4 @@ Before you begin, ensure you have the following installed on your computer:
 
 **1. Clone the repository**
 Open your terminal and clone this project to your local machine
+https://github.com/harish25bai11056/Python-Morning-Briefing-Bot/blob/main/Python_Morning_Briefing_Bot.py
